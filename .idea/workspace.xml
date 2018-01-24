@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdc6ff85-fc18-4fcf-adb3-4496a2939117" name="Default" comment="" />
+    <list default="true" id="bdc6ff85-fc18-4fcf-adb3-4496a2939117" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.伪造请求/伪造请求.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.伪造请求/cookie+requests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.伪造请求/cookie+requests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.伪造请求/single-requests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.伪造请求/single-requests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,12 +16,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ACCS$cookie_requests.coverage" NAME="cookie+requests Coverage Results" MODIFIED="1516802565457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.伪造请求" />
+    <SUITE FILE_PATH="coverage/ACCS$single_requests.coverage" NAME="single-requests Coverage Results" MODIFIED="1516802561059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.伪造请求" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Crawler-BaiduMap.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Crawler-BaiduMap.py">
+      <file leaf-file-name="Crawler-BaiduMap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取/Crawler-BaiduMap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="3906">
               <caret line="186" column="26" lean-forward="true" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
               <folding>
                 <element signature="e#92#106#0" expanded="true" />
@@ -23,18 +34,75 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baidustore_test2.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baidustore_test2.csv">
+      <file leaf-file-name="cpnbbs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python爬虫实例/爬取百度贴吧以及其他论坛/spiders/cpnbbs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-441">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cpnbbs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Crawler-BaiduTieba/spiders/cpnbbs.py">
+      <file leaf-file-name="single-requests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.伪造请求/single-requests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookie+requests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.伪造请求/cookie+requests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="21" column="671" lean-forward="false" selection-start-line="21" selection-start-column="671" selection-end-line="21" selection-end-column="671" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookie+requests.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.伪造请求/cookie+requests.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="589" column="7" lean-forward="false" selection-start-line="589" selection-start-column="7" selection-end-line="589" selection-end-column="7" />
+              <folding>
+                <element signature="e#13781#13787#1" expanded="true" />
+                <element signature="e#21287#21293#0" expanded="true" />
+                <marker date="1516802635915" expanded="true" signature="444:534" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single-requests.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.伪造请求/single-requests.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3527">
+              <caret line="301" column="7" lean-forward="false" selection-start-line="301" selection-start-column="7" selection-end-line="301" selection-end-column="7" />
+              <folding>
+                <element signature="e#11061#11067#0" expanded="true" />
+                <marker date="1516802539055" expanded="true" signature="509:599" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/requests/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baidustore_test2.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取/baidustore_test2.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -45,6 +113,14 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -53,6 +129,10 @@
       <list>
         <option value="$PROJECT_DIR$/crawlerbaidu.py" />
         <option value="$PROJECT_DIR$/baidustore_test2.csv" />
+        <option value="$PROJECT_DIR$/1.伪造请求/single-requests.py" />
+        <option value="$PROJECT_DIR$/1.伪造请求/single-requests.html" />
+        <option value="$PROJECT_DIR$/1.伪造请求/cookie+requests.py" />
+        <option value="$PROJECT_DIR$/1.伪造请求/cookie+requests.html" />
       </list>
     </option>
   </component>
@@ -89,6 +169,11 @@
               <item name="ACCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="ACCS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ACCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACCS" type="462c0819:PsiDirectoryNode" />
+              <item name="1.伪造请求" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -102,9 +187,15 @@
     <property name="last_opened_file_path" value="/home/linhanqiu/LovePet-RealizeNotion" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取" />
+      <recent name="$PROJECT_DIR$/Python爬虫实例" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python爬虫实例/爬取百度贴吧以及其他论坛" />
       <recent name="$PROJECT_DIR$/Crawler-BaiduTieba" />
     </key>
   </component>
@@ -120,7 +211,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.crawlerbaidu">
+  <component name="RunManager" selected="Python.cookie+requests">
+    <configuration name="cookie+requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.伪造请求" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ACCS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.伪造请求/cookie+requests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="crawlerbaidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,14 +243,39 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ACCS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crawler-BaiduMap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取/Crawler-BaiduMap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="single-requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.伪造请求" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ACCS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.伪造请求/single-requests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.crawlerbaidu" />
+      <item index="1" class="java.lang.String" itemvalue="Python.single-requests" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cookie+requests" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.crawlerbaidu" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.cookie+requests" />
+        <item index="1" class="java.lang.String" itemvalue="Python.single-requests" />
+        <item index="2" class="java.lang.String" itemvalue="Python.crawlerbaidu" />
       </list>
     </recent_temporary>
   </component>
@@ -160,15 +294,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5123874" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48423424" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -195,7 +328,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Crawler-BaiduMap.py">
+    <entry file="file://$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取/Crawler-BaiduMap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3864">
           <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
@@ -205,7 +338,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baidustore_test2.csv">
+    <entry file="file://$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取/baidustore_test2.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -213,7 +346,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baidustore_test2.csv">
+    <entry file="file://$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取/baidustore_test2.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -221,7 +354,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crawler-BaiduTieba/spiders/cpnbbs.py">
+    <entry file="file://$PROJECT_DIR$/Python爬虫实例/Crawler-BaiduTieba/spiders/cpnbbs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -229,12 +362,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crawler-BaiduMap.py">
+    <entry file="file://$PROJECT_DIR$/Python爬虫实例/通过百度地图api以及详情页的爬取/Crawler-BaiduMap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="3906">
           <caret line="186" column="26" lean-forward="true" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
           <folding>
             <element signature="e#92#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python爬虫实例/爬取百度贴吧以及其他论坛/spiders/cpnbbs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.伪造请求/single-requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.伪造请求/cookie+requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="21" column="671" lean-forward="false" selection-start-line="21" selection-start-column="671" selection-end-line="21" selection-end-column="671" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.伪造请求/cookie+requests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="589" column="7" lean-forward="false" selection-start-line="589" selection-start-column="7" selection-end-line="589" selection-end-column="7" />
+          <folding>
+            <element signature="e#13781#13787#1" expanded="true" />
+            <element signature="e#21287#21293#0" expanded="true" />
+            <marker date="1516802635915" expanded="true" signature="444:534" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.伪造请求/single-requests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3527">
+          <caret line="301" column="7" lean-forward="false" selection-start-line="301" selection-start-column="7" selection-end-line="301" selection-end-column="7" />
+          <folding>
+            <element signature="e#11061#11067#0" expanded="true" />
+            <marker date="1516802539055" expanded="true" signature="509:599" ph="..." />
           </folding>
         </state>
       </provider>
